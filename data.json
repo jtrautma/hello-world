@@ -1,0 +1,69 @@
+[
+   {
+      "id":"63e0ed914be3708b3a5dca9f65546fa5",
+      "type":{
+         "name":"Vertrag",
+         "key":"contract",
+         "order":2,
+         "isContract":true,
+         "isForeignContract":false
+      },
+      "status":{
+         "text":"Bestätigung notwendig",
+         "description":"\n        Zur Übertragung Ihrer Versicherung in dieses Versicherungscenter ist die Beantwortung\n        einer Sicherheitsfrage notwendig.\n      ",
+         "color":"yellow"
+      },
+      "date":"2016-08-02T16:23:36.000Z",
+      "dateFormatted":"02.08.2016",
+      "product":{
+         "key":"rei",
+         "name":"Reiseversicherung"
+      },
+      "insurance":{
+         "name":"Europ Assistance",
+         "logoUrl":"https://www.check24.de/versicherungsordner/api/insurance-service/insurances/europ_assist/logo.svg"
+      },
+      "tariffName":"",
+      "additionalText":"\n      Diese Versicherung wurde mit der E-Mail-Adresse trautmann.jan@gmx.de\n      am 02.08.2016 beantragt. Mit Klick\n      auf \"Vertrag übernehmen\" wird der Vertrag Ihrem Versicherungscenter hinzugefügt.\n    ",
+      "policyHolder":{
+         "firstname":"Jan",
+         "lastname":"Trautmann",
+         "birthday":"1984-04-25T23:00:00.000Z",
+         "birthdayFormatted":"26.04.1984"
+      },
+      "productSpecificData":{
+         "isTransferCandidate":true
+      },
+      "primaryLink":{
+         "desktop":{
+            "url":"https://www.check24.de/versicherungsordner/kundenkonto-anlegen/token/455097b5b9fd9e1ae31e4a84fff2498e416e3f143f8cfb45a6ffaadf29f791cd8ab46c4c4d1738e37fae33e67430ff7da19d7d9dec574247f9d91735fbb428a9a9be0b621009c4316cc305492223f5982d42394e57e1442f704202cb99964d2c266905a06b5429eb26298d77b7b2ab2d74ff8d01d6a848ba12a32996f74a78f0415b70ab3bb64d48a8812c988b40d9c7838d6269c8930fa23cae273415164a027bcdafb45fa52888dc0c7201b9a49c531660dde3df05b9d5b2fc4ac4a01b518d55a3fb3f4571c1c5ede39b857404e8cb882dc6936aef494e73b34306aa8a48d032d142869523c2184bec88eb6b32df8ec7e1d752608d9bc5d670b3a53dd5d770",
+            "caption":"Vertrag übernehmen",
+            "displaymode":"mainwebview"
+         },
+         "tablet":{
+            "url":"https://www.check24.de/versicherungsordner/kundenkonto-anlegen/token/455097b5b9fd9e1ae31e4a84fff2498e416e3f143f8cfb45a6ffaadf29f791cd8ab46c4c4d1738e37fae33e67430ff7da19d7d9dec574247f9d91735fbb428a9a9be0b621009c4316cc305492223f5982d42394e57e1442f704202cb99964d2c266905a06b5429eb26298d77b7b2ab2d74ff8d01d6a848ba12a32996f74a78f0415b70ab3bb64d48a8812c988b40d9c7838d6269c8930fa23cae273415164a027bcdafb45fa52888dc0c7201b9a49c531660dde3df05b9d5b2fc4ac4a01b518d55a3fb3f4571c1c5ede39b857404e8cb882dc6936aef494e73b34306aa8a48d032d142869523c2184bec88eb6b32df8ec7e1d752608d9bc5d670b3a53dd5d770",
+            "caption":"Vertrag übernehmen",
+            "displaymode":"mainwebview"
+         },
+         "mobile":{
+            "url":"https://www.check24.de/versicherungsordner/kundenkonto-anlegen/token/455097b5b9fd9e1ae31e4a84fff2498e416e3f143f8cfb45a6ffaadf29f791cd8ab46c4c4d1738e37fae33e67430ff7da19d7d9dec574247f9d91735fbb428a9a9be0b621009c4316cc305492223f5982d42394e57e1442f704202cb99964d2c266905a06b5429eb26298d77b7b2ab2d74ff8d01d6a848ba12a32996f74a78f0415b70ab3bb64d48a8812c988b40d9c7838d6269c8930fa23cae273415164a027bcdafb45fa52888dc0c7201b9a49c531660dde3df05b9d5b2fc4ac4a01b518d55a3fb3f4571c1c5ede39b857404e8cb882dc6936aef494e73b34306aa8a48d032d142869523c2184bec88eb6b32df8ec7e1d752608d9bc5d670b3a53dd5d770",
+            "caption":"Vertrag übernehmen",
+            "displaymode":"mainwebview"
+         },
+         "app":{
+            "url":"https://www.check24.de/versicherungsordner/kundenkonto-anlegen/token/455097b5b9fd9e1ae31e4a84fff2498e416e3f143f8cfb45a6ffaadf29f791cd8ab46c4c4d1738e37fae33e67430ff7da19d7d9dec574247f9d91735fbb428a9a9be0b621009c4316cc305492223f5982d42394e57e1442f704202cb99964d2c266905a06b5429eb26298d77b7b2ab2d74ff8d01d6a848ba12a32996f74a78f0415b70ab3bb64d48a8812c988b40d9c7838d6269c8930fa23cae273415164a027bcdafb45fa52888dc0c7201b9a49c531660dde3df05b9d5b2fc4ac4a01b518d55a3fb3f4571c1c5ede39b857404e8cb882dc6936aef494e73b34306aa8a48d032d142869523c2184bec88eb6b32df8ec7e1d752608d9bc5d670b3a53dd5d770&displaymode=kbwebview",
+            "caption":"Vertrag übernehmen",
+            "displaymode":"kbwebview"
+         },
+         "tabletapp":{
+            "url":"https://www.check24.de/versicherungsordner/kundenkonto-anlegen/token/455097b5b9fd9e1ae31e4a84fff2498e416e3f143f8cfb45a6ffaadf29f791cd8ab46c4c4d1738e37fae33e67430ff7da19d7d9dec574247f9d91735fbb428a9a9be0b621009c4316cc305492223f5982d42394e57e1442f704202cb99964d2c266905a06b5429eb26298d77b7b2ab2d74ff8d01d6a848ba12a32996f74a78f0415b70ab3bb64d48a8812c988b40d9c7838d6269c8930fa23cae273415164a027bcdafb45fa52888dc0c7201b9a49c531660dde3df05b9d5b2fc4ac4a01b518d55a3fb3f4571c1c5ede39b857404e8cb882dc6936aef494e73b34306aa8a48d032d142869523c2184bec88eb6b32df8ec7e1d752608d9bc5d670b3a53dd5d770&displaymode=kbwebview",
+            "caption":"Vertrag übernehmen",
+            "displaymode":"kbwebview"
+         }
+      },
+      "visibility":{
+         "currentState":"active",
+         "archiveLink":"https://www.check24.de/versicherungsordner/vertraege/ueberblick/api/archive/00de279d694e0f52806eb10e2e74ef4fa11ceabfee00018547480943929b7c2b2b615a8b2a0823a35499bf1f99b35b48740ceefe223b719f52da3a08b959ec1bf0b5fc67e4ee726e54ea55253e293c8de16b2751ac20193a5bc300c52796739d4afee8a80bb78b55f49af4bcee2310497d6916c671b909097273c73b0ec577aaf32b9f435c7317b44498cc231e77d635928c9d467e2fcea11a05120b9ef01939e6e476dccfbbe94e36e736873f8970533604c59c118a16b3882c59fc66cde4ff9c776817058f8f08cd995ac0ff55a136"
+      }
+   }
+]
